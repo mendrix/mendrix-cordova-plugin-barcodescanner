@@ -1,6 +1,6 @@
 {
   "name": "mendrix-cordova-plugin-barcodescanner",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "Cordova Barcode Scanner Plugin",
   "cordova": {
     "id": "mendrix-cordova-plugin-barcodescanner",

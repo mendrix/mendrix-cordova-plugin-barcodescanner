@@ -25,7 +25,7 @@ SOFTWARE.
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
 id="mendrix-cordova-plugin-barcodescanner"
-version="0.7.0">
+version="0.7.1">
 
     <name>BarcodeScanner</name>
     <description>Scans Barcodes</description>
