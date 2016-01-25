@@ -2,5 +2,6 @@ android {
     lintOptions {
         disable 'MissingTranslation'
         disable 'ExtraTranslation'
+		checkReleaseBuilds false
     }
 }
